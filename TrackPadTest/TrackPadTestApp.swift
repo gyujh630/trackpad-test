@@ -11,7 +11,7 @@ import SwiftUI
 struct TrackPadTestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView().frame(minWidth: 900, idealWidth: 900, minHeight: 600, idealHeight: 600)
+            ContentView().frame(minWidth: 900, idealWidth: 900, minHeight: 300, idealHeight: 600)
         }
     }
 }
